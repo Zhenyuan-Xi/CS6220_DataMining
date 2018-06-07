@@ -1,4 +1,6 @@
-"# ZhenyuanXi-assignments" 
+"# ZhenyuanXi-assignments"   
+
+https://github.com/Zhenyuan-Xi/ZhenyuanXi-assignments
 
 ### Assignment 0 [100/100]  
 Well done!
@@ -12,3 +14,10 @@ Well done!
 6. 16/20 &nbsp;[The description about what you have observed from the results is not enough]
 
 Comments: Good job!
+
+### Assignment 2 [70/100]
+1. 35/35
+2. 35/35
+3. 0/30 &nbsp; [Missing]
+
+Comments: May be more careful with questions next time :)
