@@ -21,3 +21,18 @@ Comments: Good job!
 3. 0/30 &nbsp; [Missing]
 
 Comments: May be more careful with questions next time :)
+
+### Assignment 3 [100/100]
+#### 1.1
+1. 10/10
+2. 10/10 
+3. 10/10
+
+#### 1.2
+1. 15/15
+2. 15/15
+
+#### 1.3
+1. 15/15
+2. 15/15
+3. 10/10
