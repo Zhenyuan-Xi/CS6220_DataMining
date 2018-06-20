@@ -37,5 +37,24 @@ Comments: May be more careful with questions next time :)
 2. 15/15
 3. 10/10
 
+### Assignment 4[100/100]
+#### 1.1
+1. 10/10
+2. 10/10
+3. 5/5
+4. 5/5
+
+#### 1.2
+1. 10/10
+2. 10/10
+
+#### 1.3
+1. 15/15 [You can use matplotlib.pylab here]
+2. 15/15
+
+#### 1.4
+1. 20/20
+
+Comments: Good job.
 
 
