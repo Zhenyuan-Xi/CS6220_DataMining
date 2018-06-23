@@ -57,4 +57,14 @@ Comments: May be more careful with questions next time :)
 
 Comments: Good job.
 
+### Assignment 5 [100/100]
+#### Parrt one
+1. 10/10
+2. 20/20 &nbsp; [You should generate all the 12 plots here.]
+3. 20/20
 
+#### Part two
+1. 25/25
+2. 25/25
+
+Comments: Great!
