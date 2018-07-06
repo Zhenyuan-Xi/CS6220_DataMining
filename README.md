@@ -68,3 +68,17 @@ Comments: Good job.
 2. 25/25
 
 Comments: Great!
+
+
+### Midterm [94/100]
+1. 10/10
+2. 2/10 [PCA ignores the labels of the data. Here, the direction with greatest variance (and first principal component) is the vertical direction; the second component will be in the horizontal direction.]
+3. 10/10
+4. 10/10
+5. 10/10 
+6. 10/10 
+7. 8/10 [You did a good job defining both cohesion and separation metrics (as well as the silhouette coefficient). I would have liked to see a more clear description of why certain values for cohesion/separation indicate good/bad clusters, or perhaps why negative silhouette coefficient values are undesirable.]
+8. 10/10 [Well done!]
+9. 10/10 
+10. 10/10 
+11. Extra Credit. 4/10 [The use of association rules is not a bad idea. However, it is still probably not the best method to apply of those we have discussed. In particular, association rules are not personalized; they are not based on user histories, but rather itemset histories. They do not account for similarities between users, only the co-occurrence of items (e.g., diseases) in the data.]
