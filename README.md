@@ -84,9 +84,12 @@ Comments: Great!
 11. Extra Credit. 4/10 [The use of association rules is not a bad idea. However, it is still probably not the best method to apply of those we have discussed. In particular, association rules are not personalized; they are not based on user histories, but rather itemset histories. They do not account for similarities between users, only the co-occurrence of items (e.g., diseases) in the data.]
 
 
-### quiz 1 [7/7]
+### Quiz 1 [7/7]
 1. 1/1
 2. 2/2
 3. 1/1
 4. 1/1
 5. 2/2
+
+
+### Proposal [100/100]
