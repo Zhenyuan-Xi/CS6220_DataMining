@@ -93,3 +93,12 @@ Comments: Great!
 
 
 ### Proposal [100/100]
+
+### Quiz 2 [7/10]
+1. 0/2 [the answer should be voting and stacking -- There are two approaches for combining models: voting and stacking (page 45 in lecture 11 slide)]
+2. 2/2 [By manipulating the training set;<br> By manipulating the input features; <br>By manipulating the class labels into a binary class problem；<br>By manipulating the learning algorithm (answer comes from Everaldo and Reid)]
+3. 2/2 [good answer]
+4. 2/2 
+5. 1/2 [Your answer is not completed. The important thing shoud be the words frequency and weighting. You should give more details in "text information". Here's the reference answer--<br>TF-IDF captures information about how frequent certain words are across all documents, and it uses that to weight the value assigned to those terms. This allows words that are very common across the entire dataset (e.g., “the”, “in”, “at”, etc.) to have their importance reduced, which is often very helpful.(answer comes form Everaldo and Reid)]
+
+Comments: It seems like you have gained a good grasp of the content in last course
