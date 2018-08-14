@@ -101,4 +101,18 @@ Comments: Great!
 4. 2/2 
 5. 1/2 [Your answer is not completed. The important thing shoud be the words frequency and weighting. You should give more details in "text information". Here's the reference answer--<br>TF-IDF captures information about how frequent certain words are across all documents, and it uses that to weight the value assigned to those terms. This allows words that are very common across the entire dataset (e.g., “the”, “in”, “at”, etc.) to have their importance reduced, which is often very helpful.(answer comes form Everaldo and Reid)]
 
-Comments: It seems like you have gained a good grasp of the content in last course
+Comments: It seems like you have gained a good grasp of the content in last course.
+
+
+### Final [85/100]
+1. 3/10 [Not necessarily. You're completely correct about the properties of PCA. But we can have high-dimensional data with unrelated features. In many cases, PCA will actually make classes less well-separated and classification more challenging.]
+2. 8/10 [3 out of 4 correct; 1 partially correct]
+3. 4/10 [The conditional independence assumption actually helps avoid the Curse of Dimensionality, which is more of a problem when considering features together rather than separately. Due to the "naive" independence assumption, naive Bayes only considers one dimension at a time, avoiding some of the problems with a large number of dimensions.]
+4. 8/10 [We would typically expect Everaldo's estimate to be better, because while the relative percentages of instances sampled are the same, Everaldo would have sampled more instances in absolute number. It follows that his estimate is then more likely to be accurate.]
+5. 10/10 [Good! The use of Lapacian smoothing is typically a little different (simply applied to the feature in question), but you clearly understand how multinomial naive Bayes works!]
+6. 10/10
+7. 10/10
+8. 10/10
+9. 10/10 [Great explanations!]
+10. 7/10 [a.) While family A initially achieves a higher TPR, the screening test must prevent false negative outcomes as much as possible, even at the cost of additional false positive outcomes. So the best choice for the screening test is a classification model that maximizes the TPR even at relatively high FPR. As family B achieves a higher maximum TPR than A, family B is the best choice for the screening test.]
+11. Extra Credit. 5/10 [You're correct that the perceptron will perform poorly and random forest will perform well. Also, naive Bayes may perform well, but it depends on the type of naive Bayes model. 5NN and a decision tree should perform relatively well.]
